@@ -2,7 +2,7 @@
 
 ## Overview
 
-This assignment covers JavaScript functions, arrow functions, control flow, arrays, array methods, and asynchronous JavaScript concepts.
+This assignment covers JavaScript functions, arrow functions, control flow, arrays and array methods.
 
 ## Task 1: Functions, Arrow Functions & Control Flow
 
@@ -27,7 +27,7 @@ node Assignment3.js
 
 ## Screenshots
 
-Execution screenshots for Task 1 and Task 2 are stored in the pdf file.
+Execution screenshots for Task 1 and Task 2 are stored in the word file.
 
 ## Expected Results
 
